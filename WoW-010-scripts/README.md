@@ -14,7 +14,7 @@ Ce projet permet de fusionner des cartes de différentes régions.
 
 ## Script
 WOW Game
-ADTHeightModifier
-ADTMaxModelUIDCalculator
-ADTModelUIDRecalc
-ADTOffsetRemover
+1. ADTHeightModifier
+2. ADTMaxModelUIDCalculator
+3. ADTModelUIDRecalc
+4. ADTOffsetRemover
