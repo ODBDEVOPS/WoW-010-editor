@@ -33,7 +33,10 @@ This template defines various data structures and functions to read and display 
 2. Créez une branche pour votre fonctionnalité.
 3. Soumettez une pull request.
 
-## Script
+# Templates
+WOW Game
+
+# Scripts
 WOW Game
 1. ADTHeightModifier
 2. ADTMaxModelUIDCalculator
