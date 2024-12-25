@@ -1,4 +1,4 @@
-# Projet de Fusion de Cartes
+# Projet WOW Game 010 Editor Templates/Scripts
 
 ## Description
 Ce projet permet de fusionner des cartes de différentes régions.
