@@ -1,4 +1,4 @@
-# Projet WOW Game 𝟘𝟙𝟘 𝔼𝕕𝕚𝕥𝕠𝕣 Templates/Scripts
+# Projet 𝕎𝕆𝕎 Game 𝟘𝟙𝟘 𝔼𝕕𝕚𝕥𝕠𝕣 Templates/Scripts
 
 ## 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟
 The provided code is a binary template for analyzing World of Warcraft ADT (Area Data Terrain) files using the 010 Editor. 
