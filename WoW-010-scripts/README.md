@@ -43,3 +43,9 @@ WOW Game
 2. ADTMaxModelUIDCalculator
 3. ADTModelUIDRecalc
 4. ADTOffsetRemover
+### MFBO
+1. MFBOEditor
+### WMO
+1. wmo-converter
+2. WMONightGlowAdder
+3. WMOVertexShadingFlagEnabler
