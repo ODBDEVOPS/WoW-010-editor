@@ -37,7 +37,8 @@ This template defines various data structures and functions to read and display 
 WOW Game
 
 # Scripts
-WOW Game
+## WOW Game
+### ADT
 1. ADTHeightModifier
 2. ADTMaxModelUIDCalculator
 3. ADTModelUIDRecalc
